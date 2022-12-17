@@ -31,6 +31,9 @@ function App() {
         <button onClick={plus}>
           plus
         </button>
+            <button onClick={minus}>
+                minus
+            </button>
 
         <Reset/>
 
