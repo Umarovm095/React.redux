@@ -19,9 +19,6 @@ import { useDispatch, useSelector } from "react-redux";
             <button onClick={Reset}>
                 reset
             </button>
-            <button onClick={minus}>
-                minus
-            </button>
         </div>
     )
 }
