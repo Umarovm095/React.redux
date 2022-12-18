@@ -9,10 +9,7 @@ import { useDispatch, useSelector } from "react-redux";
             type: 'reset'
         })
     }
-    const minus = () =>{
-        dispatch({
-            type: 'minus'
-        })
+
     }
     return(
         <div>
